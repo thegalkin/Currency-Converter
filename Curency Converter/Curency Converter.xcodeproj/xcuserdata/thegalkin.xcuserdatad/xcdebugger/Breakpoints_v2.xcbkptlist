@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "31C3E3FC-E759-4879-BD60-EA773C3D38CE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "875B1B84-756B-4D2B-B3A7-AEBD0B8D22C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CurrencyConverterSwiftUIApp/View/PickerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "amountBinding"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85350E8C-541F-4DE6-996A-077801BE1365"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchData(requestModel:input:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85350E8C-541F-4DE6-996A-077801BE1365 - 58ebdac0bbecae2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "838">
+               </Location>
+               <Location
+                  uuid = "85350E8C-541F-4DE6-996A-077801BE1365 - 58ebdac0bbecae2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1199">
+               </Location>
+               <Location
+                  uuid = "85350E8C-541F-4DE6-996A-077801BE1365 - 8b359d3388d394e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1AFF833-049A-4458-BD28-1C21F8224FC4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fetchData(requestModel:input:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1AFF833-049A-4458-BD28-1C21F8224FC4 - 58ebdac0bbeca81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1720">
+               </Location>
+               <Location
+                  uuid = "B1AFF833-049A-4458-BD28-1C21F8224FC4 - 8b359d3388d39483"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "410">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCDB3898-CC9A-4A0D-9015-2A29A8C71E86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchData(requestModel:input:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCDB3898-CC9A-4A0D-9015-2A29A8C71E86 - 58ebdac0bbec547"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2338">
+               </Location>
+               <Location
+                  uuid = "DCDB3898-CC9A-4A0D-9015-2A29A8C71E86 - d396ecf048453a44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "DCDB3898-CC9A-4A0D-9015-2A29A8C71E86 - 18787cb109f45943"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "DCDB3898-CC9A-4A0D-9015-2A29A8C71E86 - 60ddcc77c967f842"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "226">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "304D605B-99AC-46D9-BB46-5BB6AB49D8F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchData(requestModel:input:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "304D605B-99AC-46D9-BB46-5BB6AB49D8F5 - f44bd22e8a9c0841"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1107">
+               </Location>
+               <Location
+                  uuid = "304D605B-99AC-46D9-BB46-5BB6AB49D8F5 - 9afdf99bb5cf9236"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "304D605B-99AC-46D9-BB46-5BB6AB49D8F5 - 58ebdac0bbeca4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "207">
+               </Location>
+               <Location
+                  uuid = "304D605B-99AC-46D9-BB46-5BB6AB49D8F5 - 60ddcc77c967f74a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "99">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E692B1EF-5A5B-4625-8DEC-4C9E908BA425"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchData(requestModel:input:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E692B1EF-5A5B-4625-8DEC-4C9E908BA425 - f44bd22e8a9c0841"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1107">
+               </Location>
+               <Location
+                  uuid = "E692B1EF-5A5B-4625-8DEC-4C9E908BA425 - 9afdf99bb5cf9236"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "E692B1EF-5A5B-4625-8DEC-4C9E908BA425 - 58ebdac0bbeca4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "207">
+               </Location>
+               <Location
+                  uuid = "E692B1EF-5A5B-4625-8DEC-4C9E908BA425 - 60ddcc77c967f74a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, for: Curency_Converter.NetworkService.Endopont) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "99">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67EB6B5D-A7F0-4472-B371-1559865D8EC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchData(requestModel:input:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0896DF92-B211-4FCD-AA20-4CFD412249E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchData(requestModel:input:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0896DF92-B211-4FCD-AA20-4CFD412249E9 - d1ec06b99118eef9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, with: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "0896DF92-B211-4FCD-AA20-4CFD412249E9 - 7cb67ea64bb596e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, with: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "0896DF92-B211-4FCD-AA20-4CFD412249E9 - a2a3c74274b1aafb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, with: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "0896DF92-B211-4FCD-AA20-4CFD412249E9 - f26525cf92b05cfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for Curency_Converter.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Curency_Converter.RequestModelProtocol&gt;(requestModel: &#x3c4;_0_0.Type, input: &#x3c4;_0_0.Input, with: Foundation.URLRequest) async throws -&gt; &#x3c4;_0_0.Output"
+                  moduleName = "Curency Converter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thegalkin/GitHub/Currency-Converter/CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "97">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E59CA44-CC2E-47B9-B61E-B35493799977"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchData(requestModel:input:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D4C433F-C0E3-40B5-87B0-7362F663FF19"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CurrencyConverterSwiftUIApp/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchData(requestModel:input:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
